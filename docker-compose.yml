@@ -3,4 +3,4 @@ services:
   web:
     image: waximum/mini-html-app:latest
     ports:
-      - "8080:80"
+      - "8081:80"
